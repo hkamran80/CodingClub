@@ -16,25 +16,25 @@ Once you have GitHub set up, link it to the Hacktoberfest event site.
 
 2. Click the <kbd>Start Hacking</kbd> button
 
-![Start Hacking button](StartHacking.png)
+![Start Hacking button](Images/StartHacking.png)
 
 3. Click <kbd>Sign up with GitHub</kbd>
 
-![Sign up with GitHub button](SignUpWithGitHub.png)
+![Sign up with GitHub button](Images/SignUpWithGitHub.png)
 
 4. Accept the permissions
 
-![Click "Authorize Hacktoberfest"](AcceptPermissions.png)
+![Click "Authorize Hacktoberfest"](Images/AcceptPermissions.png)
 
 
 5. Enter the info. Choose "Participant" under "Are you a..."
 
 
-![Select Participant field](SelectParticipant.png)
+![Select Participant field](Images/SelectParticipant.png)
 
 5. That's it! When you make pull requests later, they'll show up.
 
-![](PullRequestBanner.png)
+![](Images/PullRequestBanner.png)
 
 
 ### Making a pull request
@@ -47,11 +47,11 @@ Pull requests sound scary but they just mean "code contribution." That can be ad
 
 2. Click <kbd>Fork</kbd>. This will make a copy of the folder that you can edit.
 
-![Fork](ForkRepo.png)
+![Fork](Images/ForkRepo.png)
 
 3. Add a file.
 
-![Add file -> Create new file](AddNewFile.png)
+![Add file -> Create new file](Images/AddNewFile.png)
 
 4. Paste in your code!
 
@@ -62,14 +62,14 @@ print("Hello world")
 5. Commit your changes.
     - "Commit" = save your code
 
-![Commit new file](CommitChanges.png)
+![Commit new file](Images/CommitChanges.png)
 
 6. You have added your file. Time to create a pull request now
 
-![Contribute -> Open pull request](OpenPR.png)
+![Contribute -> Open pull request](Images/OpenPR.png)
 
 7. Confirm that you want to create a PR
 
-![Click "Create pull request"](CreatePR.png)
+![Click "Create pull request"](Images/CreatePR.png)
 
 8. Thanks for the PR! We will accept it later and it will count to your 4 PRs.

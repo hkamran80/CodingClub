@@ -3,6 +3,7 @@
 // repeatEnd("Hello", 3) → "llollollo"
 // repeatEnd("Hello", 2) → "lolo"
 // repeatEnd("Hello", 1) → "o"
+  
 
 public String repeatEnd(String str, int n) {
   String temp = "";

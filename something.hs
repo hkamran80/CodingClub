@@ -1,6 +1,6 @@
-data TreeNode a = Empty | Node a TreeNode TreeNode
+data TreeNode a = Empty | Node a (TreeNode a) (TreeNode a)
 
-invert :: TreeNode -> TreeNode
+invert :: TreeNode a -> TreeNode a
 invert (Empty) = Empty
 invert (Node x l r) = Node x (invert r) (invert l)
 
